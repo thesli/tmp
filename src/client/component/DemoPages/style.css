@@ -1,0 +1,9 @@
+.caption-render-page{
+  color: white;
+  .slider {
+    width: 100%;
+  }
+  .caption-render {
+    font-size: 2em;
+  }
+}

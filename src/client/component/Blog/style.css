@@ -1,0 +1,15 @@
+.blog-section{
+  position: relative;
+  /*&:after {
+    width: 0;
+    border-bottom: solid thin white;
+    content: '';
+    transition: 0.4s;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  &:hover:after {
+    width: 100%;
+  }*/
+}

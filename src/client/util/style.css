@@ -1,0 +1,20 @@
+@import "normalize.css";
+@import "../component/**/*.css";
+
+$color: white;
+$bgColor: rgb(204, 92, 114);
+$siteWidth: 720px;
+
+body {
+  
+  font: {
+    family: Ubuntu Light;
+  }
+  margin: {
+    left: auto;
+    right: auto;
+  }
+  width: $siteWidth;
+  color: $color;
+  background: $bgColor;
+}
